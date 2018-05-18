@@ -1,5 +1,6 @@
 # DroneCore
-bash scripts which communicate with arduino and command.
+
+A set of scripts that forward commands from the remote controller to the controller. This "server" host the socket serveur and the idea is also to add in the future other services (GPS, autopilot, ...).
 
 Installation
 ============
